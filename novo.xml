@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Settings>
+<ProvPlaylistURL encoding="UTF8" epgName="" format="m3u" name="Novo" value="G:\Meu Drive\iptv\Novo.M3U"/>
+<GUILanguage value="Auto"/>
+<StartupPlaylistsDownload value="no"/>
+<StartupEPGDownload value="no"/>
+<StartupCheckChannelsSignal value="no"/>
+<StartupMode mode="Tray" value="settings"/>
+<CheckOnlyUDPChannels value="no"/>
+<AutoDownloadPlaylistsTimer enabled="no" value="60"/>
+<AutoDownloadEPGTimer enabled="no" value="1440"/>
+<DownloadEPGOnlyOn value=""/>
+<AutoCheckChannelsSignalTimer enabled="no" value="60"/>
+<ChannelsWaitingTimeout value="10"/>
+<CheckingSignalTriesQnt value="1"/>
+<IPTVDataServerEnabled value="no"/>
+<FullscreenDisplay value="0"/>
+<ZoomSDMedia fitWidth="no" value="1.0"/>
+<ChangeFullscreenRefreshRate value="no"/>
+<XBMCPlaylist value=""/>
+<LogosDirectory value=""/>
+<MediaFilesDirectory value=""/>
+<DefaultDeintMode value="Smooth"/>
+<RenderPriority value="Speed"/>
+<HardwareAcceleration value="Enable"/>
+<HideChannelsList value="no"/>
+<FontSize value="Small"/>
+<Volume mute="no" value="0.83"/>
+<EPGURL jtvDataEncoding="CP1251" jtvFileEncoding="CP866" jtvFormat="yes" shortName="test" value="G:\Meu Drive\iptv\Novo.M3U"/>
+<EPGFile value=""/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS: GLOBO&quot; tvg-logo=&quot;http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png&quot;,GLOBO RBS TV PORTO ALEGRE FULLHD" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32298" name="GLOBO RBS TV PORTO ALEGRE FULLHD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS: GLOBO&quot; tvg-logo=&quot;http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png&quot;,GLOBO RBS TV PORTO ALEGRE FULLHD" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32345" name="GLOBO RBS TV PORTO ALEGRE FULLHD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" xbmc-name="GLOBO RBS TV PORTO ALEGRE FULLHD 2"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS: GLOBO&quot; tvg-logo=&quot;http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png&quot;,GLOBO RBS TV PORTO ALEGRE HD" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32300" name="GLOBO RBS TV PORTO ALEGRE HD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348&quot;,GLOBO RBS PORTO ALEGRE HD" line2="http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/36290.ts" name="GLOBO RBS PORTO ALEGRE HD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb20151110112348" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 2"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 tvg-id=&quot;RBSTVPortoAlegre.br&quot; tvg-name=&quot;Globo Rio Grande do Sul&quot;  tvg-logo=&quot;https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png&quot;group-title=&quot;CANAIS | GLOBO&quot;,GLOBO RBS TV PORTO ALEGRE 02" line2="http://api.magiaiptv.com/live/800196/128093/m2_1Tg7sxFdaIlIxFHG_720p" name="GLOBO RBS TV PORTO ALEGRE 02" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-id="RBSTVPortoAlegre.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png" tvg-name="Globo_Rio_Grande_do_Sul" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 3"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS: GLOBO&quot; tvg-logo=&quot;http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png&quot;,GLOBO RBS Porto Alegre HD" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32304" name="GLOBO RBS Porto Alegre HD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 4"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS: GLOBO&quot; tvg-logo=&quot;http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png&quot;,GLOBO� RBS TV POA FULLHD" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32344" name="GLOBO� RBS TV POA FULLHD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 5"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: Dublado" line1="#EXTINF:-1 group-title=&quot;CANAIS: Dublado&quot;,RBS TV HD Porto Alegre" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36077" name="RBS TV HD Porto Alegre" provider="G:\Meu Drive\iptv\Novo.M3U" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 6"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="FHD TEST" line1="#EXTINF:-1 group-title=&quot;FHD TEST&quot;,RBS TV HD Porto Alegre" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38438" name="RBS TV HD Porto Alegre" provider="G:\Meu Drive\iptv\Novo.M3U" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 7"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png&quot;,GLOBO PORTO ALEGRE HD" line2="http://axr.life:80/00005733/MF159357C/767641" name="GLOBO PORTO ALEGRE HD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 8"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png&quot;,GLOBO RBS TV PORTO ALEGRE HD 2" line2="http://axr.life:80/00005733/MF159357C/5310" name="GLOBO RBS TV PORTO ALEGRE HD 2" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" xbmc-name="GLOBO RBS TV PORTO ALEGRE HD 9"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png&quot;,GLOBO PELOTAS FHD" line2="http://axr.life:80/00005733/MF159357C/466235" name="GLOBO PELOTAS FHD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png&quot;,GLOBO RBS PELOTAS" line2="http://axr.life:80/00005733/MF159357C/380569" name="GLOBO RBS PELOTAS" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png&quot;,GLOBO RBS TV CAXIAS DO SUL FHD" line2="http://axr.life:80/00005733/MF159357C/71724" name="GLOBO RBS TV CAXIAS DO SUL FHD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS | GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS | GLOBO&quot; tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png&quot;,GLOBO RBS TV CAXIAS DO SUL HD" line2="http://axr.life:80/00005733/MF159357C/71723" name="GLOBO RBS TV CAXIAS DO SUL HD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png"/>
+<ChannelInfo addDate="2022.09.16 15:32:04" group-title="CANAIS: GLOBO" line1="#EXTINF:-1 group-title=&quot;CANAIS: GLOBO&quot; tvg-logo=&quot;http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png&quot;,GLOBO� TV RIO SUL FULL HD" line2="http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32301" name="GLOBO� TV RIO SUL FULL HD" provider="G:\Meu Drive\iptv\Novo.M3U" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png"/>
+</Settings>
