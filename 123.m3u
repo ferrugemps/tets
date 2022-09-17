@@ -1,0 +1,816 @@
+
+#EXTM3U
+
+EXTINF:-1,Globo Brasília FHD
+http://b5.vc:80/022773/J2AUU4/131151.ts
+#EXTINF:-1,Globo Brasília HD
+http://b5.vc:80/022773/J2AUU4/131164.ts
+#EXTINF:-1,Globo Brasília SD
+http://b5.vc:80/022773/J2AUU4/131116.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+http://b5.vc:80/022773/J2AUU4/131210.ts
+#EXTINF:-1,Globo EPTV Ribeirão Preto SD
+http://b5.vc:80/022773/J2AUU4/131202.ts
+#EXTINF:-1,Globo EPTV São Carlos FHD
+http://b5.vc:80/022773/J2AUU4/131141.ts
+#EXTINF:-1,Globo EPTV São Carlos HD
+http://b5.vc:80/022773/J2AUU4/131129.ts
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://b5.vc:80/022773/J2AUU4/131201.ts
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://b5.vc:80/022773/J2AUU4/131186.ts
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://b5.vc:80/022773/J2AUU4/131143.ts
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://b5.vc:80/022773/J2AUU4/131115.ts
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://b5.vc:80/022773/J2AUU4/131114.ts
+#EXTINF:-1,Globo News SD
+http://b5.vc:80/022773/J2AUU4/131112.ts
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://b5.vc:80/022773/J2AUU4/131192.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://b5.vc:80/022773/J2AUU4/135432.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://b5.vc:80/022773/J2AUU4/135433.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste SD
+http://b5.vc:80/022773/J2AUU4/135434.ts
+#EXTINF:-1,Globo NSC TV Chapecó SD
+http://b5.vc:80/022773/J2AUU4/131190.ts
+#EXTINF:-1,Globo NSC TV Criciúma FHD
+http://b5.vc:80/022773/J2AUU4/135426.ts
+#EXTINF:-1,Globo NSC TV Criciúma HD
+http://b5.vc:80/022773/J2AUU4/135427.ts
+#EXTINF:-1,Globo NSC TV Criciúma SD
+http://b5.vc:80/022773/J2AUU4/135428.ts
+#EXTINF:-1,Globo NSC TV Florianópolis SD
+http://b5.vc:80/022773/J2AUU4/131144.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://b5.vc:80/022773/J2AUU4/131160.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://b5.vc:80/022773/J2AUU4/131130.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://b5.vc:80/022773/J2AUU4/133064.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://b5.vc:80/022773/J2AUU4/133065.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo SD
+http://b5.vc:80/022773/J2AUU4/133066.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://b5.vc:80/022773/J2AUU4/131121.ts
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://b5.vc:80/022773/J2AUU4/131207.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://b5.vc:80/022773/J2AUU4/131102.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://b5.vc:80/022773/J2AUU4/131198.ts
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://b5.vc:80/022773/J2AUU4/135423.ts
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://b5.vc:80/022773/J2AUU4/135424.ts
+#EXTINF:-1,Globo RBS TV Santa Maria SD
+http://b5.vc:80/022773/J2AUU4/135425.ts
+#EXTINF:-1,Globo Rede Amazônica Amapá SD
+http://b5.vc:80/022773/J2AUU4/133057.ts
+#EXTINF:-1,Globo Rede Amazônica Porto Velho SD
+http://b5.vc:80/022773/J2AUU4/131184.ts
+#EXTINF:-1,Globo Rede Amazônica Rio Branco SD
+http://b5.vc:80/022773/J2AUU4/131111.ts
+#EXTINF:-1,Globo Rede Bahia HD
+http://b5.vc:80/022773/J2AUU4/131123.ts
+#EXTINF:-1,Globo RJ HD
+http://b5.vc:80/022773/J2AUU4/131163.ts
+#EXTINF:-1,Globo RJ SD
+http://b5.vc:80/022773/J2AUU4/131182.ts
+#EXTINF:-1,Globo RPC Cascavel HD
+http://b5.vc:80/022773/J2AUU4/133059.ts
+#EXTINF:-1,Globo RPC Cascavel SD
+http://b5.vc:80/022773/J2AUU4/133060.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+http://b5.vc:80/022773/J2AUU4/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+http://b5.vc:80/022773/J2AUU4/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+http://b5.vc:80/022773/J2AUU4/133063.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+http://b5.vc:80/022773/J2AUU4/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://b5.vc:80/022773/J2AUU4/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguaçu SD
+http://b5.vc:80/022773/J2AUU4/131206.ts
+#EXTINF:-1,Globo RPC TV Maringá FHD
+http://b5.vc:80/022773/J2AUU4/131101.ts
+#EXTINF:-1,Globo RPC TV Maringá SD
+http://b5.vc:80/022773/J2AUU4/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://b5.vc:80/022773/J2AUU4/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+http://b5.vc:80/022773/J2AUU4/131189.ts
+#EXTINF:-1,Globo SP FHD [H265]
+http://b5.vc:80/022773/J2AUU4/131215.ts
+#EXTINF:-1,Globo SP HD
+http://b5.vc:80/022773/J2AUU4/131212.ts
+#EXTINF:-1,Globo TV Anhanguera SD
+http://b5.vc:80/022773/J2AUU4/131124.ts
+#EXTINF:-1,Globo TV Asa Branca SD
+http://b5.vc:80/022773/J2AUU4/131180.ts
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://b5.vc:80/022773/J2AUU4/131146.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://b5.vc:80/022773/J2AUU4/131110.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://b5.vc:80/022773/J2AUU4/131179.ts
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://b5.vc:80/022773/J2AUU4/131105.ts
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://b5.vc:80/022773/J2AUU4/131196.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes FHD
+http://b5.vc:80/022773/J2AUU4/131100.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+http://b5.vc:80/022773/J2AUU4/131177.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://b5.vc:80/022773/J2AUU4/131158.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://b5.vc:80/022773/J2AUU4/131214.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://b5.vc:80/022773/J2AUU4/131142.ts
+#EXTINF:-1,Globo TV Gazeta Vitória SD
+http://b5.vc:80/022773/J2AUU4/131175.ts
+#EXTINF:-1,Globo TV Integração Araxa HD
+http://b5.vc:80/022773/J2AUU4/131126.ts
+#EXTINF:-1,Globo TV Integração Araxa SD
+http://b5.vc:80/022773/J2AUU4/131140.ts
+#EXTINF:-1,Globo TV Integração Juiz de Fora SD
+http://b5.vc:80/022773/J2AUU4/131106.ts
+#EXTINF:-1,Globo TV Mirante São Luís FHD
+http://b5.vc:80/022773/J2AUU4/131103.ts
+#EXTINF:-1,Globo TV Mirante São Luís SD
+http://b5.vc:80/022773/J2AUU4/131195.ts
+#EXTINF:-1,Tv Globo Morena HD
+http://b5.vc:80/022773/J2AUU4/131169.ts
+#EXTINF:-1,Globo TV Rio Sul HD
+http://b5.vc:80/022773/J2AUU4/131128.ts
+#EXTINF:-1,Tv Globo Santa Cruz FHD
+http://b5.vc:80/022773/J2AUU4/135420.ts
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://b5.vc:80/022773/J2AUU4/135421.ts
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://b5.vc:80/022773/J2AUU4/135422.ts
+#EXTINF:-1,Globo TV Sergipe FHD
+http://b5.vc:80/022773/J2AUU4/131156.ts
+#EXTINF:-1,Globo TV Sergipe SD
+http://b5.vc:80/022773/J2AUU4/131139.ts
+#EXTINF:-1,Globo TV Subae FHD
+http://b5.vc:80/022773/J2AUU4/133067.ts
+#EXTINF:-1,Globo TV Subae HD
+http://b5.vc:80/022773/J2AUU4/133068.ts
+#EXTINF:-1,Globo TV Subae SD
+http://b5.vc:80/022773/J2AUU4/133069.ts
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://b5.vc:80/022773/J2AUU4/131120.ts
+#EXTINF:-1,Globo TV TEM São José do Rio Preto FHD
+http://b5.vc:80/022773/J2AUU4/131155.ts
+#EXTINF:-1,Globo TV TEM São José do Rio Preto SD
+http://b5.vc:80/022773/J2AUU4/131205.ts
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://b5.vc:80/022773/J2AUU4/131194.ts
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://b5.vc:80/022773/J2AUU4/131135.ts
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://b5.vc:80/022773/J2AUU4/131165.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://b5.vc:80/022773/J2AUU4/131109.ts
+#EXTINF:-1,Globo TV Vanguarda SJ dos Campos HD
+http://b5.vc:80/022773/J2AUU4/144027.ts
+#EXTINF:-1,Globo TV Vanguarda Taubaté SD
+http://b5.vc:80/022773/J2AUU4/131187.ts
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://b5.vc:80/022773/J2AUU4/131161.ts
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://b5.vc:80/022773/J2AUU4/131137.ts
+#EXTINF:-1,Gloob FHD
+http://b5.vc:80/022773/J2AUU4/131153.ts
+#EXTINF:-1,Gloobinho SD
+
+EXTINF:-1,Globo EPTV Campinas FHD
+http://b5.vc:80/022773/J2AUU4/131150.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+http://b5.vc:80/022773/J2AUU4/71977.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+http://b5.vc:80/022773/J2AUU4/131172.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://b5.vc:80/022773/J2AUU4/131178.ts
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://b5.vc:80/022773/J2AUU4/72592.ts
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://b5.vc:80/022773/J2AUU4/71979.ts
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://b5.vc:80/022773/J2AUU4/71980.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://b5.vc:80/022773/J2AUU4/71982.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://b5.vc:80/022773/J2AUU4/71983.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://b5.vc:80/022773/J2AUU4/131131.ts
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+http://b5.vc:80/022773/J2AUU4/71985.ts
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://b5.vc:80/022773/J2AUU4/71986.ts
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://b5.vc:80/022773/J2AUU4/71989.ts
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://b5.vc:80/022773/J2AUU4/71990.ts
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://b5.vc:80/022773/J2AUU4/71991.ts
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://b5.vc:80/022773/J2AUU4/71994.ts
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://b5.vc:80/022773/J2AUU4/71995.ts
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://b5.vc:80/022773/J2AUU4/71996.ts
+#EXTINF:-1,Globo Minas FHD
+http://b5.vc:80/022773/J2AUU4/131200.ts
+#EXTINF:-1,Globo Minas HD
+http://b5.vc:80/022773/J2AUU4/131159.ts
+#EXTINF:-1,Globo Minas SD
+http://b5.vc:80/022773/J2AUU4/131209.ts
+#EXTINF:-1,Globo News 4K FHDR
+http://b5.vc:80/022773/J2AUU4/90248.ts
+#EXTINF:-1,Globo News FHD
+http://b5.vc:80/022773/J2AUU4/71997.ts
+#EXTINF:-1,Globo News FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71998.ts
+#EXTINF:-1,Globo News HD
+http://b5.vc:80/022773/J2AUU4/71999.ts
+#EXTINF:-1,Globo Nordeste FHD
+http://b5.vc:80/022773/J2AUU4/72001.ts
+#EXTINF:-1,Globo Nordeste HD
+http://b5.vc:80/022773/J2AUU4/131157.ts
+#EXTINF:-1,Globo Nordeste SD
+http://b5.vc:80/022773/J2AUU4/72003.ts
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://b5.vc:80/022773/J2AUU4/72004.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://b5.vc:80/022773/J2AUU4/72005.ts
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://b5.vc:80/022773/J2AUU4/131174.ts
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://b5.vc:80/022773/J2AUU4/72008.ts
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://b5.vc:80/022773/J2AUU4/72010.ts
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://b5.vc:80/022773/J2AUU4/131183.ts
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://b5.vc:80/022773/J2AUU4/91034.ts
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://b5.vc:80/022773/J2AUU4/131167.ts
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://b5.vc:80/022773/J2AUU4/91032.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://b5.vc:80/022773/J2AUU4/72014.ts
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://b5.vc:80/022773/J2AUU4/72617.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://b5.vc:80/022773/J2AUU4/72017.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa FHD
+http://b5.vc:80/022773/J2AUU4/133055.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa HD
+http://b5.vc:80/022773/J2AUU4/133056.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista FHD
+http://b5.vc:80/022773/J2AUU4/131185.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista HD
+http://b5.vc:80/022773/J2AUU4/93588.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista SD
+http://b5.vc:80/022773/J2AUU4/93589.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus FHD
+http://b5.vc:80/022773/J2AUU4/72019.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://b5.vc:80/022773/J2AUU4/72020.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+http://b5.vc:80/022773/J2AUU4/72021.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho FHD
+http://b5.vc:80/022773/J2AUU4/108684.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho HD
+http://b5.vc:80/022773/J2AUU4/93592.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco FHD
+http://b5.vc:80/022773/J2AUU4/131148.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco HD
+http://b5.vc:80/022773/J2AUU4/131162.ts
+#EXTINF:-1,Globo Rede Bahia FHD
+http://b5.vc:80/022773/J2AUU4/131213.ts
+#EXTINF:-1,Globo Rede Bahia SD
+http://b5.vc:80/022773/J2AUU4/72024.ts
+#EXTINF:-1,Globo RJ FHD
+http://b5.vc:80/022773/J2AUU4/72025.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://b5.vc:80/022773/J2AUU4/133058.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+http://b5.vc:80/022773/J2AUU4/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+http://b5.vc:80/022773/J2AUU4/131170.ts
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+http://b5.vc:80/022773/J2AUU4/131199.ts
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://b5.vc:80/022773/J2AUU4/72626.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu FHD
+http://b5.vc:80/022773/J2AUU4/131149.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
+http://b5.vc:80/022773/J2AUU4/72033.ts
+#EXTINF:-1,Globo RPC TV Maringa HD
+http://b5.vc:80/022773/J2AUU4/96888.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://b5.vc:80/022773/J2AUU4/72037.ts
+#EXTINF:-1,Globo SP FHD
+http://b5.vc:80/022773/J2AUU4/72040.ts
+#EXTINF:-1,Globo SP SD
+http://b5.vc:80/022773/J2AUU4/72042.ts
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://b5.vc:80/022773/J2AUU4/72043.ts
+#EXTINF:-1,Globo TV Anhanguera HD
+http://b5.vc:80/022773/J2AUU4/131166.ts
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://b5.vc:80/022773/J2AUU4/102554.ts
+#EXTINF:-1,Globo TV Asa Branca HD
+http://b5.vc:80/022773/J2AUU4/102555.ts
+#EXTINF:-1,Globo TV Centro America FHD
+http://b5.vc:80/022773/J2AUU4/72049.ts
+#EXTINF:-1,Globo TV Centro America HD
+http://b5.vc:80/022773/J2AUU4/72050.ts
+#EXTINF:-1,Globo TV Centro America SD
+http://b5.vc:80/022773/J2AUU4/72051.ts
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://b5.vc:80/022773/J2AUU4/72053.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes HD
+http://b5.vc:80/022773/J2AUU4/97596.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes SD
+http://b5.vc:80/022773/J2AUU4/97597.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente FHD
+http://b5.vc:80/022773/J2AUU4/97587.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+http://b5.vc:80/022773/J2AUU4/97588.ts
+#EXTINF:-1,Globo TV Gazeta Sul FHD
+http://b5.vc:80/022773/J2AUU4/131099.ts
+#EXTINF:-1,Globo TV Gazeta Sul HD
+http://b5.vc:80/022773/J2AUU4/72059.ts
+#EXTINF:-1,Globo TV Gazeta Sul SD
+http://b5.vc:80/022773/J2AUU4/72060.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://b5.vc:80/022773/J2AUU4/72061.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://b5.vc:80/022773/J2AUU4/131154.ts
+#EXTINF:-1,Globo TV Integracao Araxa FHD
+http://b5.vc:80/022773/J2AUU4/131203.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora FHD
+http://b5.vc:80/022773/J2AUU4/72067.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora HD
+http://b5.vc:80/022773/J2AUU4/72068.ts
+#EXTINF:-1,Globo TV Integracao Uberaba FHD
+http://b5.vc:80/022773/J2AUU4/133052.ts
+#EXTINF:-1,Globo TV Integracao Uberaba HD
+http://b5.vc:80/022773/J2AUU4/133053.ts
+#EXTINF:-1,Globo TV Integracao Uberaba SD
+http://b5.vc:80/022773/J2AUU4/133054.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia FHD
+http://b5.vc:80/022773/J2AUU4/133051.ts
+#EXTINF:-1,Globo TV Liberal Belem FHD
+http://b5.vc:80/022773/J2AUU4/131152.ts
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://b5.vc:80/022773/J2AUU4/72071.ts
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://b5.vc:80/022773/J2AUU4/72072.ts
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+http://b5.vc:80/022773/J2AUU4/133050.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://b5.vc:80/022773/J2AUU4/72074.ts
+#EXTINF:-1,Globo TV Morena FHD
+http://b5.vc:80/022773/J2AUU4/72076.ts
+#EXTINF:-1,Globo TV Morena SD
+http://b5.vc:80/022773/J2AUU4/131122.ts
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://b5.vc:80/022773/J2AUU4/72079.ts
+#EXTINF:-1,Globo TV Rio Sul SD
+http://b5.vc:80/022773/J2AUU4/72082.ts
+#EXTINF:-1,Globo TV Sergipe HD
+http://b5.vc:80/022773/J2AUU4/131181.ts
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://b5.vc:80/022773/J2AUU4/72092.ts
+#EXTINF:-1,Globo TV Sudoeste HD
+http://b5.vc:80/022773/J2AUU4/72093.ts
+#EXTINF:-1,Globo TV Sudoeste SD
+http://b5.vc:80/022773/J2AUU4/72094.ts
+#EXTINF:-1,Globo TV TEM Bauru FHD
+http://b5.vc:80/022773/J2AUU4/91431.ts
+#EXTINF:-1,Globo TV TEM Bauru HD
+http://b5.vc:80/022773/J2AUU4/91432.ts
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+http://b5.vc:80/022773/J2AUU4/91435.ts
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://b5.vc:80/022773/J2AUU4/91436.ts
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+http://b5.vc:80/022773/J2AUU4/131119.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto HD
+http://b5.vc:80/022773/J2AUU4/91434.ts
+#EXTINF:-1,Globo TV TEM Sorocaba FHD
+http://b5.vc:80/022773/J2AUU4/131191.ts
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://b5.vc:80/022773/J2AUU4/91439.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos FHD
+http://b5.vc:80/022773/J2AUU4/131211.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+http://b5.vc:80/022773/J2AUU4/72624.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+http://b5.vc:80/022773/J2AUU4/100375.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate HD
+http://b5.vc:80/022773/J2AUU4/93605.ts
+#EXTINF:-1,Globo TV Verdes Mares 4K FHDR
+http://b5.vc:80/022773/J2AUU4/72080.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://b5.vc:80/022773/J2AUU4/91440.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://b5.vc:80/022773/J2AUU4/91441.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri SD
+http://b5.vc:80/022773/J2AUU4/91442.ts
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://b5.vc:80/022773/J2AUU4/72096.ts
+#EXTINF:-1,Gloob 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103498.ts
+#EXTINF:-1,Gloob FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72099.ts
+#EXTINF:-1,Gloob HD
+http://b5.vc:80/022773/J2AUU4/72100.ts
+#EXTINF:-1,Gloob SD
+http://b5.vc:80/022773/J2AUU4/131117.ts
+#EXTINF:-1,Gloobinho 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103497.ts
+#EXTINF:-1,Gloobinho FHD
+http://b5.vc:80/022773/J2AUU4/90631.ts
+#EXTINF:-1,Gloobinho FHD [H265]
+http://b5.vc:80/022773/J2AUU4/90630.ts
+#EXTINF:-1,Gloobinho HD
+
+#EXTINF:-1,H2 4K FHDR
+http://b5.vc:80/022773/J2AUU4/90245.ts
+#EXTINF:-1,H2 FHD
+http://b5.vc:80/022773/J2AUU4/72106.ts
+#EXTINF:-1,H2 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72107.ts
+#EXTINF:-1,H2 HD
+http://b5.vc:80/022773/J2AUU4/72108.ts
+#EXTINF:-1,H2 SD
+http://b5.vc:80/022773/J2AUU4/72109.ts
+
+#EXTINF:-1,Planeta Animal 4K FHDR
+http://b5.vc:80/022773/J2AUU4/71774.ts
+#EXTINF:-1,Planeta Animal FHD
+http://b5.vc:80/022773/J2AUU4/71772.ts
+#EXTINF:-1,Planeta Animal FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71773.ts
+#EXTINF:-1,Planeta Animal HD
+http://b5.vc:80/022773/J2AUU4/71775.ts
+#EXTINF:-1,Animal Planet SD
+http://b5.vc:80/022773/J2AUU4/71776.ts
+
+#EXTINF:-1,[24H] Mundo Bita
+http://b5.vc:80/022773/J2AUU4/135452.ts
+#EXTINF:-1,[24H] Mundo Bita e Natureza
+http://b5.vc:80/022773/J2AUU4/135498.ts
+#EXTINF:-1,[24H] Mundo Bita e as Brincadeiras
+http://b5.vc:80/022773/J2AUU4/135497.ts
+#EXTINF:-1,[24H] Mundo Bita e Corpo Humano
+http://b5.vc:80/022773/J2AUU4/135496.ts
+#EXTINF:-1,[24H] Mundo Bita e Nosso Dia
+http://b5.vc:80/022773/J2AUU4/135495.ts
+#EXTINF:-1,[24H] Mundo Bita e os Animais
+http://b5.vc:80/022773/J2AUU4/135494.ts
+
+#EXTINF:-1,Discovery Channel 4K FHDR
+http://b5.vc:80/022773/J2AUU4/71864.ts
+#EXTINF:-1,Discovery Channel FHD
+http://b5.vc:80/022773/J2AUU4/71862.ts
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71863.ts
+#EXTINF:-1,Discovery Channel HD
+http://b5.vc:80/022773/J2AUU4/71865.ts
+#EXTINF:-1,Discovery Channel SD
+http://b5.vc:80/022773/J2AUU4/71866.ts
+#EXTINF:-1,Discovery H&H 4K FHDR
+http://b5.vc:80/022773/J2AUU4/90251.ts
+#EXTINF:-1,Discovery H&H FHD
+http://b5.vc:80/022773/J2AUU4/71867.ts
+#EXTINF:-1,Discovery H&H FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71868.ts
+#EXTINF:-1,Discovery H&H HD
+http://b5.vc:80/022773/J2AUU4/71869.ts
+#EXTINF:-1,Discovery H&H SD
+http://b5.vc:80/022773/J2AUU4/71870.ts
+#EXTINF:-1,Discovery Kids 4K FHDR
+http://b5.vc:80/022773/J2AUU4/90250.ts
+#EXTINF:-1,Discovery Kids FHD
+http://b5.vc:80/022773/J2AUU4/71871.ts
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71872.ts
+#EXTINF:-1,Discovery Kids HD
+http://b5.vc:80/022773/J2AUU4/71873.ts
+#EXTINF:-1,Discovery Kids SD
+http://b5.vc:80/022773/J2AUU4/71874.ts
+#EXTINF:-1,Discovery Science 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103511.ts
+#EXTINF:-1,Discovery Science FHD
+http://b5.vc:80/022773/J2AUU4/71875.ts
+#EXTINF:-1,Discovery Science FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71876.ts
+#EXTINF:-1,Discovery Science HD
+http://b5.vc:80/022773/J2AUU4/71877.ts
+#EXTINF:-1,Discovery Science SD
+http://b5.vc:80/022773/J2AUU4/71878.ts
+#EXTINF:-1,Discovery Theater 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103510.ts
+#EXTINF:-1,Discovery Theater FHD
+http://b5.vc:80/022773/J2AUU4/71879.ts
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71880.ts
+#EXTINF:-1,Discovery Theater HD
+http://b5.vc:80/022773/J2AUU4/71881.ts
+#EXTINF:-1,Discovery Theater SD
+http://b5.vc:80/022773/J2AUU4/71882.ts
+#EXTINF:-1,Discovery Turbo 4K FHDR
+http://b5.vc:80/022773/J2AUU4/90641.ts
+#EXTINF:-1,Discovery Turbo FHD
+http://b5.vc:80/022773/J2AUU4/71883.ts
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71884.ts
+#EXTINF:-1,Discovery Turbo HD
+http://b5.vc:80/022773/J2AUU4/71885.ts
+#EXTINF:-1,Discovery Turbo SD
+http://b5.vc:80/022773/J2AUU4/71886.ts
+#EXTINF:-1,Discovery World 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103509.ts
+#EXTINF:-1,Discovery World FHD
+http://b5.vc:80/022773/J2AUU4/71887.ts
+#EXTINF:-1,Discovery World FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71888.ts
+#EXTINF:-1,Discovery World HD
+http://b5.vc:80/022773/J2AUU4/71889.ts
+#EXTINF:-1,Discovery World SD
+http://b5.vc:80/022773/J2AUU4/71890.ts
+
+#EXTINF:-1,Fish TV 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103502.ts
+#EXTINF:-1,Fish TV FHD
+http://b5.vc:80/022773/J2AUU4/71928.ts
+#EXTINF:-1,Fish TV FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71929.ts
+#EXTINF:-1,Fish TV HD
+http://b5.vc:80/022773/J2AUU4/71930.ts
+#EXTINF:-1,Fish TV SD
+http://b5.vc:80/022773/J2AUU4/71931.ts
+
+XTINF:-1,Formula 1 TV HD
+http://b5.vc:80/022773/J2AUU4/98395.ts
+#EXTINF:-1,Fox Sports 2 4K FHDR
+http://b5.vc:80/022773/J2AUU4/71954.ts
+#EXTINF:-1,Fox Sports 2 FHD
+http://b5.vc:80/022773/J2AUU4/71952.ts
+#EXTINF:-1,Fox Sports 2 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/71953.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://b5.vc:80/022773/J2AUU4/71955.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://b5.vc:80/022773/J2AUU4/71956.ts
+
+EXTINF:-1,CONMEBOL TV 1 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103524.ts
+#EXTINF:-1,Conmebol TV 1 FHD
+http://b5.vc:80/022773/J2AUU4/72977.ts
+#EXTINF:-1,Conmebol TV 1 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72978.ts
+#EXTINF:-1,Conmebol TV 1 HD
+http://b5.vc:80/022773/J2AUU4/72979.ts
+#EXTINF:-1,Conmebol TV 1 SD
+http://b5.vc:80/022773/J2AUU4/72980.ts
+#EXTINF:-1,CONMEBOL TV 2 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103523.ts
+#EXTINF:-1,Conmebol TV 2 FHD
+http://b5.vc:80/022773/J2AUU4/72981.ts
+#EXTINF:-1,Conmebol TV 2 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72982.ts
+#EXTINF:-1,Conmebol TV 2 HD
+http://b5.vc:80/022773/J2AUU4/72983.ts
+#EXTINF:-1,Conmebol TV 2 SD
+http://b5.vc:80/022773/J2AUU4/72984.ts
+#EXTINF:-1,CONMEBOL TV 3 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103522.ts
+#EXTINF:-1,Conmebol TV 3 FHD
+http://b5.vc:80/022773/J2AUU4/72985.ts
+#EXTINF:-1,Conmebol TV 3 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72986.ts
+#EXTINF:-1,Conmebol TV 3 HD
+http://b5.vc:80/022773/J2AUU4/72987.ts
+#EXTINF:-1,Conmebol TV 3 SD
+http://b5.vc:80/022773/J2AUU4/72988.ts
+#EXTINF:-1,CONMEBOL TV 4 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103521.ts
+#EXTINF:-1,Conmebol TV 4 FHD
+http://b5.vc:80/022773/J2AUU4/72989.ts
+#EXTINF:-1,Conmebol TV 4 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72990.ts
+#EXTINF:-1,Conmebol TV 4 HD
+http://b5.vc:80/022773/J2AUU4/72991.ts
+#EXTINF:-1,Conmebol TV 4 SD
+http://b5.vc:80/022773/J2AUU4/72992.ts
+#EXTINF:-1,Copa Catarinense 1 HD
+http://b5.vc:80/022773/J2AUU4/96011.ts
+#EXTINF:-1,Copa Catarinense 2 HD
+http://b5.vc:80/022773/J2AUU4/96012.ts
+#EXTINF:-1,Copa Catarinense 3 HD
+http://b5.vc:80/022773/J2AUU4/96013.ts
+#EXTINF:-1,Copa do Brasil 1 FHD
+http://b5.vc:80/022773/J2AUU4/150498.ts
+#EXTINF:-1,Copa do Brasil 1 HD
+http://b5.vc:80/022773/J2AUU4/150499.ts
+#EXTINF:-1,Copa do Brasil 1 SD
+http://b5.vc:80/022773/J2AUU4/150500.ts
+#EXTINF:-1,Copa do Brasil 2 FHD
+http://b5.vc:80/022773/J2AUU4/150501.ts
+#EXTINF:-1,Copa do Brasil 2 HD
+http://b5.vc:80/022773/J2AUU4/150502.ts
+#EXTINF:-1,Copa do Brasil 2 SD
+http://b5.vc:80/022773/J2AUU4/150503.ts
+#EXTINF:-1,Copa do Nordeste 1 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103515.ts
+#EXTINF:-1,Copa do Nordeste 1 FHD
+http://b5.vc:80/022773/J2AUU4/96505.ts
+#EXTINF:-1,Copa do Nordeste 1 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/96506.ts
+#EXTINF:-1,Copa do Nordeste 1 HD
+http://b5.vc:80/022773/J2AUU4/96507.ts
+#EXTINF:-1,Copa do Nordeste 1 SD
+http://b5.vc:80/022773/J2AUU4/96508.ts
+#EXTINF:-1,Copa do Nordeste 2 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103514.ts
+#EXTINF:-1,Copa do Nordeste 2 FHD
+http://b5.vc:80/022773/J2AUU4/96509.ts
+#EXTINF:-1,Copa do Nordeste 2 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/96510.ts
+#EXTINF:-1,Copa do Nordeste 2 HD
+http://b5.vc:80/022773/J2AUU4/96511.ts
+#EXTINF:-1,Copa do Nordeste 2 SD
+http://b5.vc:80/022773/J2AUU4/96512.ts
+#EXTINF:-1,Copa do Nordeste 3 HD
+http://b5.vc:80/022773/J2AUU4/101617.ts
+#EXTINF:-1,Copa do Nordeste 4 HD
+http://b5.vc:80/022773/J2AUU4/101618.ts
+#EXTINF:-1,Copa do Nordeste 5 HD
+http://b5.vc:80/022773/J2AUU4/101619.ts
+#EXTINF:-1,Copa do Nordeste 6 HD
+http://b5.vc:80/022773/J2AUU4/101620.ts
+#EXTINF:-1,Copa do Nordeste 7 HD
+http://b5.vc:80/022773/J2AUU4/101621.ts
+
+EXTINF:-1,Record News FHD
+http://b5.vc:80/022773/J2AUU4/72271.ts
+#EXTINF:-1,Record News HD
+http://b5.vc:80/022773/J2AUU4/72272.ts
+#EXTINF:-1,Record News SD
+http://b5.vc:80/022773/J2AUU4/72273.ts
+#EXTINF:-1,RecordTV Atalaia HD
+http://b5.vc:80/022773/J2AUU4/111242.ts
+#EXTINF:-1,RecordTV BA HD
+http://b5.vc:80/022773/J2AUU4/72976.ts
+#EXTINF:-1,RecordTV Belém FHD
+http://b5.vc:80/022773/J2AUU4/102254.ts
+#EXTINF:-1,RecordTV Belém HD
+http://b5.vc:80/022773/J2AUU4/96523.ts
+#EXTINF:-1,RecordTV Belém SD
+http://b5.vc:80/022773/J2AUU4/73262.ts
+#EXTINF:-1,RecordTV Brasília HD
+http://b5.vc:80/022773/J2AUU4/72629.ts
+#EXTINF:-1,RecordTV Brasília SD
+http://b5.vc:80/022773/J2AUU4/96524.ts
+#EXTINF:-1,RecordTV Cabrália HD
+http://b5.vc:80/022773/J2AUU4/72275.ts
+#EXTINF:-1,RecordTV GO FHD
+http://b5.vc:80/022773/J2AUU4/102253.ts
+#EXTINF:-1,RecordTV GO HD
+http://b5.vc:80/022773/J2AUU4/72278.ts
+#EXTINF:-1,RecordTV GO SD
+http://b5.vc:80/022773/J2AUU4/72279.ts
+#EXTINF:-1,RecordTV Interior RJ FHD
+http://b5.vc:80/022773/J2AUU4/102255.ts
+#EXTINF:-1,RecordTV Interior RJ HD
+http://b5.vc:80/022773/J2AUU4/102256.ts
+#EXTINF:-1,RecordTV Interior RJ SD
+http://b5.vc:80/022773/J2AUU4/102257.ts
+#EXTINF:-1,RecordTV Interior SP FHD
+http://b5.vc:80/022773/J2AUU4/102258.ts
+#EXTINF:-1,RecordTV Interior SP HD
+http://b5.vc:80/022773/J2AUU4/102259.ts
+#EXTINF:-1,RecordTV Interior SP SD
+http://b5.vc:80/022773/J2AUU4/102260.ts
+#EXTINF:-1,RecordTV Itapoan HD
+http://b5.vc:80/022773/J2AUU4/72284.ts
+#EXTINF:-1,RecordTV Itapoan SD
+http://b5.vc:80/022773/J2AUU4/72285.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraíba FHD
+http://b5.vc:80/022773/J2AUU4/102261.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraíba HD
+http://b5.vc:80/022773/J2AUU4/102262.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraíba SD
+http://b5.vc:80/022773/J2AUU4/102263.ts
+#EXTINF:-1,RecordTV MG FHD
+http://b5.vc:80/022773/J2AUU4/102252.ts
+#EXTINF:-1,RecordTV MG HD
+http://b5.vc:80/022773/J2AUU4/72619.ts
+#EXTINF:-1,RecordTV MG SD
+http://b5.vc:80/022773/J2AUU4/96525.ts
+#EXTINF:-1,RecordTV RJ FHD
+http://b5.vc:80/022773/J2AUU4/106638.ts
+#EXTINF:-1,RecordTV RJ HD
+http://b5.vc:80/022773/J2AUU4/72594.ts
+#EXTINF:-1,RecordTV RJ SD
+http://b5.vc:80/022773/J2AUU4/96526.ts
+#EXTINF:-1,RecordTV RS FHD
+http://b5.vc:80/022773/J2AUU4/102251.ts
+#EXTINF:-1,RecordTV RS HD
+http://b5.vc:80/022773/J2AUU4/72974.ts
+#EXTINF:-1,RecordTV RS SD
+http://b5.vc:80/022773/J2AUU4/72975.ts
+#EXTINF:-1,RecordTV São José do Rio Preto FHD
+http://b5.vc:80/022773/J2AUU4/102264.ts
+#EXTINF:-1,RecordTV São José do Rio Preto HD
+http://b5.vc:80/022773/J2AUU4/102265.ts
+#EXTINF:-1,RecordTV São José do Rio Preto SD
+http://b5.vc:80/022773/J2AUU4/102266.ts
+#EXTINF:-1,RecordTV SP FHD
+http://b5.vc:80/022773/J2AUU4/77654.ts
+#EXTINF:-1,RecordTV SP FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72595.ts
+#EXTINF:-1,RecordTV SP HD
+http://b5.vc:80/022773/J2AUU4/72973.ts
+#EXTINF:-1,RecordTV SP SD
+http://b5.vc:80/022773/J2AUU4/96522.ts
+
+
+EXTINF:-1,RedeTV FHD
+http://b5.vc:80/022773/J2AUU4/72297.ts
+#EXTINF:-1,RedeTV FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72298.ts
+#EXTINF:-1,RedeTV HD
+http://b5.vc:80/022773/J2AUU4/72299.ts
+#EXTINF:-1,RedeTV SD
+
+#EXTINF:-1,SBT Rede Massa PR FHD
+http://b5.vc:80/022773/J2AUU4/72303.ts
+#EXTINF:-1,SBT Rede Massa PR HD
+http://b5.vc:80/022773/J2AUU4/72305.ts
+#EXTINF:-1,SBT Rede Massa PR SD
+http://b5.vc:80/022773/J2AUU4/72306.ts
+#EXTINF:-1,SBT RJ FHD
+http://b5.vc:80/022773/J2AUU4/108681.ts
+#EXTINF:-1,SBT RJ HD
+http://b5.vc:80/022773/J2AUU4/108682.ts
+#EXTINF:-1,SBT RJ SD
+http://b5.vc:80/022773/J2AUU4/108683.ts
+#EXTINF:-1,SBT RS HD
+http://b5.vc:80/022773/J2AUU4/75028.ts
+#EXTINF:-1,SBT SP FHD
+http://b5.vc:80/022773/J2AUU4/77963.ts
+#EXTINF:-1,SBT SP FHD [H265]
+http://b5.vc:80/022773/J2AUU4/104939.ts
+#EXTINF:-1,SBT SP HD
+http://b5.vc:80/022773/J2AUU4/72598.ts
+#EXTINF:-1,SBT SP SD
+http://b5.vc:80/022773/J2AUU4/77964.ts
+#EXTINF:-1,SBT TV Alterosa HD
+http://b5.vc:80/022773/J2AUU4/72621.ts
+
+#EXTINF:-1,SporTV 2 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103472.ts
+#EXTINF:-1,SporTV 2 FHD
+http://b5.vc:80/022773/J2AUU4/72321.ts
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/131147.ts
+#EXTINF:-1,SporTV 2 HD
+http://b5.vc:80/022773/J2AUU4/131176.ts
+#EXTINF:-1,SporTV 2 SD
+http://b5.vc:80/022773/J2AUU4/72324.ts
+#EXTINF:-1,SporTV 3 FHD
+http://b5.vc:80/022773/J2AUU4/72325.ts
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72326.ts
+#EXTINF:-1,SporTV 3HD
+http://b5.vc:80/022773/J2AUU4/131113.ts
+#EXTINF:-1,SporTV 3 SD
+http://b5.vc:80/022773/J2AUU4/131108.ts
+#EXTINF:-1,SporTV 4K FHDR
+http://b5.vc:80/022773/J2AUU4/131188.ts
+#EXTINF:-1,SporTV FHD
+http://b5.vc:80/022773/J2AUU4/72329.ts
+#EXTINF:-1,SporTV FHD [H265]
+http://b5.vc:80/022773/J2AUU4/72330.ts
+#EXTINF:-1,SporTV HD
+http://b5.vc:80/022773/J2AUU4/72332.ts
+#EXTINF:-1,SporTV SD
+http://b5.vc:80/022773/J2AUU4/131132.ts
+#EXTINF:-1,SporTV3 4K FHDR
+http://b5.vc:80/022773/J2AUU4/103471.ts
+
