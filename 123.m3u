@@ -1773,6 +1773,8 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13744.ts
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31130
 #EXTINF: -1 group-title="CANAIS | DOCUMENTÁRIOS", LOADING TV UHD
 https://furiaplay.fun/IPTV/video.m3u8?acesso=34eabf7d86ab2bb9ff1cea0aec9ee86f&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", 01 Globo News
+http://66.90.68.98/live/4719wil/452540/90041.m3u8?token=WWFlNThzZmJteDB0UUhQ
 #EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band Internacional
 http://pfsv.io:80/42925586/28558/518
 #EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News FHD
@@ -1783,10 +1785,16 @@ http://pfsv.io:80/42925586/28558/30195
 http://cdn.connectbr.com.br/BandNews/index.m3u8
 #EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News HD
 http://pfsv.io:80/42925586/28558/514
+#EXTINF: -1 group-title="CANAIS | Noticias", BAND NEWS HD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=978eb5b3f063f12b5104e29012f512ce&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", Band News HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16696
 #EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News SD
 http://pfsv.io:80/42925586/28558/520
+#EXTINF: -1 tvg-id="Bandnews.br" group-title="CANAIS | Noticias", BAND NEWS SD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=a54efc3d7efdde4a8c4857d9aa94f15d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 group-title="CANAIS | Noticias", BAND NEWS UHD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=2630c59cc45d24a8ceed54856f996430&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="Cbs News" tvg-name="CBS NEWS HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", CBS NEWS (NY) HD
 https://cbsn-us.cbsnstream.cbsnews.com:443/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 #EXTINF: -1 tvg-logo="http://p6.vc/4" group-title="CANAIS | Noticias", CNN Brasil FHD
@@ -1795,22 +1803,38 @@ http://pfsv.io:80/42925586/28558/513
 http://pfsv.io:80/42925586/28558/30198
 #EXTINF: -1 tvg-logo="http://p6.vc/4" group-title="CANAIS | Noticias", CNN Brasil HD
 http://pfsv.io:80/42925586/28558/517
+#EXTINF: -1 group-title="CANAIS | Noticias", CNN BRASIL HD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=3372be4d5d807f42d2ad274edf6e7d1f&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="http://p6.vc/4" group-title="CANAIS | Noticias", CNN Brasil SD
 http://pfsv.io:80/42925586/28558/523
+#EXTINF: -1 group-title="CANAIS | Noticias", CNN BRASIL UHD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=98020fad44a4fb91b5d9f7d661b621b5&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="http://p6.vc/4" group-title="CANAIS | Noticias", CNN Internacional HD
 http://pfsv.io:80/42925586/28558/69087
+#EXTINF: -1 tvg-id="CNNInternacional.ar" group-title="CANAIS | Noticias", CNN INTERNACIONAL SD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=19a01a0f2a548cd5079f3e34ee628c75&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-id="FOXNews.uk" group-title="CANAIS | Noticias", FOX NEWS HD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=57be08265c6be236092553d0f334220a&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-id="FOXNews.uk" group-title="CANAIS | Noticias", FOX NEWS SD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=350d5d364e119c1eab363339cc23517c&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 group-title="CANAIS | Noticias", FOX NEWS UHD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=da4e30d0e1f1485743a62c7afe1bcb3d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo Internacional
 http://pfsv.io:80/42925586/28558/519
-#EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", 01 Globo News
-http://66.90.68.98/live/4719wil/452540/90041.m3u8?token=WWFlNThzZmJteDB0UUhQ
 #EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo News FHD[H265]
 http://pfsv.io:80/42925586/28558/30196
 #EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo News HD
 http://pfsv.io:80/42925586/28558/516
+#EXTINF: -1 tvg-id="Globonewshd.br" group-title="CANAIS | Noticias", GLOBO NEWS HD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=2b67bdeeb5dea3143f4b429f10b109cc&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", Globo News HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16727
 #EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo News SD
 http://pfsv.io:80/42925586/28558/522
+#EXTINF: -1 tvg-id="Globonews.br" group-title="CANAIS | Noticias", GLOBO NEWS SD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=2c9a90583cdc8df0468848a4f6032e77&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 group-title="CANAIS | Noticias", GLOBO NEWS UHD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=57f3d6f28fdb984df3008b7fbeab2658&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 group-title="CANAIS | Noticias", GloboNews HD
 http://45.227.181.18:8000/play/a0r2/index.m3u8
 #EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News FHD
@@ -1821,8 +1845,14 @@ http://pfsv.io:80/42925586/28558/98167
 https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News HD
 http://pfsv.io:80/42925586/28558/98165
+#EXTINF: -1 group-title="CANAIS | Noticias", JOVEM PAN NEWS HD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=fb9efc954cb1f291f8c8b5a0135c8b80&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News SD
 http://pfsv.io:80/42925586/28558/98128
+#EXTINF: -1 tvg-id="JovemPanNews.br" group-title="CANAIS | Noticias", JOVEM PAN NEWS SD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=d2218ad2cbdc9df9c3118eb8db38e605&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 group-title="CANAIS | Noticias", JOVEM PAN NEWS UHD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=229d298c0be4b37aaead85a2f213a0d4&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 group-title="CANAIS | Noticias", JP News HD
 http://45.227.181.18:8000/play/a0py/index.m3u8
 #EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", RECORD NEWS AM HD
@@ -1835,46 +1865,16 @@ http://pfsv.io:80/42925586/28558/30197
 http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
 #EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", Record News HD
 http://pfsv.io:80/42925586/28558/515
+#EXTINF: -1 group-title="CANAIS | Noticias", RECORD NEWS HD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=39f68ef2c767d6272832929063604073&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/1200px-Record_News_%28color%29.svg.png" group-title="CANAIS | Noticias", Record News HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16747
 #EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", Record News SD
 http://pfsv.io:80/42925586/28558/521
-#EXTINF: -1 group-title="CANAIS | Noticias", BAND NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=978eb5b3f063f12b5104e29012f512ce&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", BAND NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2630c59cc45d24a8ceed54856f996430&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="Bandnews.br" group-title="CANAIS | Noticias", BAND NEWS SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=a54efc3d7efdde4a8c4857d9aa94f15d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", CNN BRASIL HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=3372be4d5d807f42d2ad274edf6e7d1f&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", CNN BRASIL UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=98020fad44a4fb91b5d9f7d661b621b5&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="CNNInternacional.ar" group-title="CANAIS | Noticias", CNN INTERNACIONAL SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=19a01a0f2a548cd5079f3e34ee628c75&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="FOXNews.uk" group-title="CANAIS | Noticias", FOX NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=57be08265c6be236092553d0f334220a&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="FOXNews.uk" group-title="CANAIS | Noticias", FOX NEWS SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=350d5d364e119c1eab363339cc23517c&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", FOX NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=da4e30d0e1f1485743a62c7afe1bcb3d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="Globonewshd.br" group-title="CANAIS | Noticias", GLOBO NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2b67bdeeb5dea3143f4b429f10b109cc&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", GLOBO NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=57f3d6f28fdb984df3008b7fbeab2658&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="Globonews.br" group-title="CANAIS | Noticias", GLOBO NEWS SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2c9a90583cdc8df0468848a4f6032e77&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", JOVEM PAN NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=fb9efc954cb1f291f8c8b5a0135c8b80&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", JOVEM PAN NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=229d298c0be4b37aaead85a2f213a0d4&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-id="JovemPanNews.br" group-title="CANAIS | Noticias", JOVEM PAN NEWS SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=d2218ad2cbdc9df9c3118eb8db38e605&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", RECORD NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=39f68ef2c767d6272832929063604073&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", RECORD NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=d3861b4ee8c7005a5fdd79f33612147a&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="RecordNews.pt" group-title="CANAIS | Noticias", RECORD NEWS SD
 https://furiaplay.fun/IPTV/video.m3u8?acesso=b90605f127bfa60dad3390ea0b841e01&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 group-title="CANAIS | Noticias", RECORD NEWS UHD
+https://furiaplay.fun/IPTV/video.m3u8?acesso=d3861b4ee8c7005a5fdd79f33612147a&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO", SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="REDETV" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO", REDETV TOCANTINS
