@@ -4,17 +4,17 @@ http://acsc.cc/movie/4673629418/snakeplay/169734.mp4
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" group-title="CANAIS | GLOBO", 01 Globo RBS !
 http://acsa.ws:80/ZYqfc/726ZSRypt/72017.ts
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 01 Globo RBS TV Porto Alegre
-http://topstb.com:8000/50656250782258/27115840859269/208763
+http://cdn.xcore.ca:80/litrha/8xaoeq/46729
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 01 Globo RBS TV Porto Alegre
-http://topstb.com:8000/50656250782258/27115840859269/208763
+http://cdn.xcore.ca:80/litrha/8xaoeq/536
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="03 Globo RBS TV Porto Alegre" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 02 Globo RBS TV Porto Alegre
-https://furiaplay.fun/IPTV/video.m3u8?acesso=6146ae0d40e3b21a162d4fcb27aa63c2&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/43686
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 02 Globo RBS TV Porto Alegre
-http://topstb.com:8000/50656250782258/27115840859269/208529
+http://cdn.xcore.ca:80/litrha/8xaoeq/40719
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 03 Globo RBS TV Porto Alegre
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32344
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 03 Globo RBS TV Porto Alegre
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32344
+http://cdn.xcore.ca:80/litrha/8xaoeq/38470
 #EXTINF: -1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="Globo Rbs Tv Porto Alegre HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 04 Globo RBS TV Porto Alegre
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32298
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 04 Globo RBS TV Porto Alegre
@@ -938,9 +938,19 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=27aa1e4f1c7a37ad71105acb4762e352&us
 #EXTINF: -1 tvg-id="TVPampa.br" tvg-name="REDETV  RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="CANAIS | ABERTOS", 02 PAMPA REDETV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1525438033.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="CANAIS | ABERTOS", 03 SBT RS
-http://acsa.ws:80/ZYqfc/726ZSRypt/75028.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/43757
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="CANAIS | ABERTOS", 03 SBT RS
+http://cdn.xcore.ca:80/litrha/8xaoeq/43758
 #EXTINF: -1 tvg-id="TVE.br" tvg-name="TVE RS FHD" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2018/06/TVE.jpg" group-title="CANAIS | ABERTOS", 04 TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w246282235.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS | ABERTOS", 05 Band RS
+http://cdn.xcore.ca:80/litrha/8xaoeq/86704
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS | ABERTOS", 05 Band RS
+http://cdn.xcore.ca:80/litrha/8xaoeq/79733
+#EXTINF: -1 tvg-logo="https://stcotvfoco.com.br/2013/08/Rede_Record_logo_2012.png" group-title="CANAIS | ABERTOS", 1 RECORD RS
+http://cdn.xcore.ca:80/litrha/8xaoeq/43741
+#EXTINF: -1 tvg-logo="https://stcotvfoco.com.br/2013/08/Rede_Record_logo_2012.png" group-title="CANAIS | ABERTOS", 1 RECORD RS
+http://cdn.xcore.ca:80/litrha/8xaoeq/40768
 #EXTINF: -1 tvg-id="Agro Brasil" tvg-name="AGRO BRASIL HD" tvg-logo="data:image/png;base64,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" group-title="CANAIS | ABERTOS", AGRO BRASIL HD
 https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w546533828.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS | ABERTOS", BAND 4K
@@ -1294,13 +1304,13 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 01 ANIMAL PLANET
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82899
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 02 ANIMAL PLANET
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/12018
+http://cdn.xcore.ca:80/litrha/8xaoeq/79901
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 03 ANIMAL PLANET
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82900
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 04 ANIMAL PLANET
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82903
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 05 ANIMAL PLANET
-http://topstb.com:8000/50656250782258/27115840859269/208830
+http://cdn.xcore.ca:80/litrha/8xaoeq/38447
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 06 ANIMAL PLANET
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/99901
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 07 ANIMAL PLANET
@@ -1314,11 +1324,11 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31029
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14154.ts
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET 4K FHDR
-http://b5.vc:80/022773/J2AUU4/71774.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/40677
 #EXTINF: -1 tvg-id="Animalplanet.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET FHD
-http://axr.life:80/00005733/MF159357C/5191
+http://cdn.xcore.ca:80/litrha/8xaoeq/466
 #EXTINF: -1 tvg-name="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET FHD
-http://b5.vc:80/022773/J2AUU4/71772.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/43607
 #EXTINF: -1 tvg-name="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET FULLHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31104
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET HD
@@ -1332,9 +1342,9 @@ http://axr.life:80/00005733/MF159357C/5042
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13666.ts
 #EXTINF: -1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", ANIMAL PLANET HD
-http://212.102.58.151/STREAM_8332/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+http://cdn.xcore.ca:80/litrha/8xaoeq/76689
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 01 ANIMAL PLANET
-https://furiaplay.fun/IPTV/video.m3u8?acesso=4e3b724768309e879b783e396bd1356c&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/44
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 01 ANIMAL PLANET
 https://furiaplay.fun/IPTV/video.m3u8?acesso=da0afa33fa74511369bcc1c1cd9ac010&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS | Animal Planet", 01 ANIMAL PLANET
@@ -1360,13 +1370,13 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31033
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13676.ts
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-http://b5.vc:80/022773/J2AUU4/71864.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/38849
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31106
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-http://b5.vc:80/022773/J2AUU4/71862.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/40683
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-http://b5.vc:80/022773/J2AUU4/71863.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/42142
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16705
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
@@ -1374,17 +1384,17 @@ http://b5.vc:80/022773/J2AUU4/71865.ts
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://212.102.58.151/STREAM_8342/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-https://furiaplay.fun/IPTV/video.m3u8?acesso=c4e88432e0807803d682fb8238315a65&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/43636
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-https://furiaplay.fun/IPTV/video.m3u8?acesso=85e7333daf59f600dd2efd4aae85eb49&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/76690
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-https://furiaplay.fun/IPTV/video.m3u8?acesso=0970675ee6df01676fe4c6b404d9b651&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/6
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/14075
+http://cdn.xcore.ca:80/litrha/8xaoeq/64
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/83449
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
-http://b5.vc:80/022773/J2AUU4/71874.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/66
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
 http://ttv.bz:80/manolopc1/7U49kuozK8/1058
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
@@ -1394,17 +1404,17 @@ http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/83451
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/83452
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
-http://b5.vc:80/022773/J2AUU4/90250.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/43638
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
-http://b5.vc:80/022773/J2AUU4/71872.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/42145
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
 http://b5.vc:80/022773/J2AUU4/71873.ts
 #EXTINF: -1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS | DISCOVERY CHANNEL", 02 DISCOVERY KIDS
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16707
+http://cdn.xcore.ca:80/litrha/8xaoeq/79904
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82926
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
-http://b5.vc:80/022773/J2AUU4/71878.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/38451
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
 http://ttv.bz:80/manolopc1/7U49kuozK8/1057
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
@@ -1414,15 +1424,15 @@ http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82927
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/4809.ts
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
-http://b5.vc:80/022773/J2AUU4/103511.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/42146
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
-http://b5.vc:80/022773/J2AUU4/71875.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/43639
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31111
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31112
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
-http://b5.vc:80/022773/J2AUU4/71877.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/67
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16708
 #EXTINF: -1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 03 DISCOVERY SCIENCE
@@ -1434,15 +1444,15 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=04cd0ebb97d1303c97c0d23a47c355fa&us
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82918
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
-http://b5.vc:80/022773/J2AUU4/71882.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/68
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82920
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82919
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
-http://b5.vc:80/022773/J2AUU4/103510.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/42147
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
-http://b5.vc:80/022773/J2AUU4/71879.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/43640
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
 http://b5.vc:80/022773/J2AUU4/71880.ts
 #EXTINF: -1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://3.bp.blogspot.com/-46zrGjWf8TE/T2tgEUYcd1I/AAAAAAAAGkk/bKOuCcnShtg/s1600/image001-708682.jpg" group-title="CANAIS | DISCOVERY CHANNEL", 04 DISCOVERY THEATER
@@ -1470,7 +1480,7 @@ http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82923
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13680.ts
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
-http://b5.vc:80/022773/J2AUU4/71883.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/69
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
 http://b5.vc:80/022773/J2AUU4/71884.ts
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
@@ -1478,9 +1488,9 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31114
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31115
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
-http://212.102.58.151/STREAM_8337/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+http://cdn.xcore.ca:80/litrha/8xaoeq/43641
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
-http://b5.vc:80/022773/J2AUU4/71885.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/42148
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16711
 #EXTINF: -1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DISCOVERY CHANNEL", 05 Discovery Turbo
@@ -1542,21 +1552,21 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=c85662b8ec12dce7624b9df3f5eab331&us
 #EXTINF: -1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS | DISCOVERY CHANNEL", 07 ID - INVESTIGATION DISCOVERY
 https://furiaplay.fun/IPTV/video.m3u8?acesso=3d20269e602a8a64190547f662003e1d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
-http://b5.vc:80/022773/J2AUU4/71870.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/65
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82915
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82914
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
-http://b5.vc:80/022773/J2AUU4/90251.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/7
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
-http://b5.vc:80/022773/J2AUU4/71867.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/43637
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
-http://b5.vc:80/022773/J2AUU4/71868.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/42143
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13677.ts
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
-http://b5.vc:80/022773/J2AUU4/71869.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/40684
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16706
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
@@ -1564,7 +1574,7 @@ http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82917
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82916
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31107
+http://cdn.xcore.ca:80/litrha/8xaoeq/38450
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31108
 #EXTINF: -1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hrjbpP7ukoQFzlv5-nHclWRd_fzPqgrKLVf5ZfYrIA&s" group-title="CANAIS | DISCOVERY CHANNEL", 08 Discovery H&H
@@ -1595,18 +1605,24 @@ http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/11922
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/29155
 #EXTINF: -1 group-title="CANAIS | DISCOVERY CHANNEL", 07 ID - INVESTIGATION DISCOVERY
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/42037
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2
+https://furiaplay.fun/IPTV/video.m3u8?acesso=829972c107f84d1dcc6071783133c15f&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2
+https://furiaplay.fun/IPTV/video.m3u8?acesso=2cf912a37f80cff6112f567fac25addb&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2
+https://furiaplay.fun/IPTV/video.m3u8?acesso=ab3b93cc0dd6bb7b272df33f07c6137a&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="History2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 FHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31118
 #EXTINF: -1 tvg-id="History2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 FHD
-http://b5.vc:80/022773/J2AUU4/72106.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/93
 #EXTINF: -1 tvg-id="History2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 FHD
 http://axr.life:80/00005733/MF159357C/5235
 #EXTINF: -1 tvg-id="History2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 FHD
 http://axr.life:80/00005733/MF159357C/923832
 #EXTINF: -1 tvg-id="History2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 FHD [H265]
-http://b5.vc:80/022773/J2AUU4/72107.ts
+http://cdn.xcore.ca:80/litrha/8xaoeq/38475
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31119
+http://cdn.xcore.ca:80/litrha/8xaoeq/40703
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13703.ts
 #EXTINF: -1 tvg-id="History 2" tvg-name="H2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
@@ -1627,16 +1643,22 @@ http://b5.vc:80/022773/J2AUU4/72109.ts
 http://axr.life:80/00005733/MF159357C/923458
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 SD (ALT)
 http://axr.life:80/00005733/MF159357C/5450
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY
+http://cdn.xcore.ca:80/litrha/8xaoeq/103
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY
+http://cdn.xcore.ca:80/litrha/8xaoeq/18
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY
+http://cdn.xcore.ca:80/litrha/8xaoeq/43708
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13848.ts
-#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL 4K
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/27313.ts
-#EXTINF: -1 tvg-id="Historychannel.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL HD
+#EXTINF: -1 tvg-id="Historychannel.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL
 http://axr.life:80/00005733/MF159357C/5084
-#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13709.ts
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL
+http://cdn.xcore.ca:80/litrha/8xaoeq/40702
 #EXTINF: -1 tvg-id="History" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL HD
-http://212.102.58.151/STREAM_8352/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+http://cdn.xcore.ca:80/litrha/8xaoeq/38486
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", History Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16735
 #EXTINF: -1 tvg-id="Historychannel.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY CHANNEL SD
@@ -1655,24 +1677,12 @@ http://axr.life:80/00005733/MF159357C/923018
 http://45.227.181.18:8000/play/a0qo/index.m3u8
 #EXTINF: -1 tvg-id="Historychannel.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY SD
 http://axr.life:80/00005733/MF159357C/923541
-#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY
-https://furiaplay.fun/IPTV/video.m3u8?acesso=d3fd483b8f423de7d0795f14d650eb6c&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2f1072786fcb5566192ea6b912d97ed1&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS | HISTORY CHANNEL", HISTORY
-https://furiaplay.fun/IPTV/video.m3u8?acesso=b868436842ed923dc44b208810d90a06&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2
-https://furiaplay.fun/IPTV/video.m3u8?acesso=829972c107f84d1dcc6071783133c15f&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2cf912a37f80cff6112f567fac25addb&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2
-https://furiaplay.fun/IPTV/video.m3u8?acesso=ab3b93cc0dd6bb7b272df33f07c6137a&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="FishTV.br" tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", FISH TV
-https://furiaplay.fun/IPTV/video.m3u8?acesso=953bc9e300fb004a9d500f52f65ffe97&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/43656
 #EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", FISH TV
-https://furiaplay.fun/IPTV/video.m3u8?acesso=7d184b66a4ffc360bd6fee7d50fbda16&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/38614
 #EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", FISH TV
-https://furiaplay.fun/IPTV/video.m3u8?acesso=7eded702fa6facb5ff020b5823d3ec17&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+http://cdn.xcore.ca:80/litrha/8xaoeq/81
 #EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", FISH TV - FHD
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82849
 #EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", FISH TV - HD
@@ -1775,26 +1785,60 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31130
 https://furiaplay.fun/IPTV/video.m3u8?acesso=34eabf7d86ab2bb9ff1cea0aec9ee86f&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
 http://fusion4k.online:80/00006226/MF159357C/5439
+#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
+http://cdn.xcore.ca:80/litrha/8xaoeq/40925
+#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
+http://cdn.xcore.ca:80/litrha/8xaoeq/82621
+#EXTINF: -1 tvg-id="Globonewshd.br" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
+http://cdn.xcore.ca:80/litrha/8xaoeq/534
+#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16727
+#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
+http://fusion4k.online:80/00006226/MF159357C/5439
+#EXTINF: -1 tvg-id="Globonews.br" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 GLOBO NEWS
+http://fusion4k.online:80/00006226/MF159357C/5439
+#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 GLOBO NEWS
+http://cdn.xcore.ca:80/litrha/8xaoeq/43679
+#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", 01 Globo News
+http://cdn.xcore.ca:80/litrha/8xaoeq/90
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+http://cdn.xcore.ca:80/litrha/8xaoeq/75684
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+http://cdn.xcore.ca:80/litrha/8xaoeq/75687
+#EXTINF: -1 tvg-id="Jovempan.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+http://cdn.xcore.ca:80/litrha/8xaoeq/88533
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+http://cdn.xcore.ca:80/litrha/8xaoeq/75688
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+http://cdn.xcore.ca:80/litrha/8xaoeq/75686
+#EXTINF: -1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+https://furiaplay.fun/IPTV/video.m3u8?acesso=d2218ad2cbdc9df9c3118eb8db38e605&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+https://furiaplay.fun/IPTV/video.m3u8?acesso=229d298c0be4b37aaead85a2f213a0d4&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="CANAIS | Noticias", 02 Jovem PAN News
+http://45.227.181.18:8000/play/a0py/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+http://pfsv.io:80/42925586/28558/510
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+http://pfsv.io:80/42925586/28558/30195
+#EXTINF: -1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+http://cdn.connectbr.com.br/BandNews/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+http://pfsv.io:80/42925586/28558/514
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+https://furiaplay.fun/IPTV/video.m3u8?acesso=978eb5b3f063f12b5104e29012f512ce&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16696
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+http://pfsv.io:80/42925586/28558/520
+#EXTINF: -1 tvg-id="Bandnews.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+https://furiaplay.fun/IPTV/video.m3u8?acesso=a54efc3d7efdde4a8c4857d9aa94f15d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", 03 Band News
+https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png
 #EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band Internacional
 http://pfsv.io:80/42925586/28558/518
-#EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News FHD
-http://pfsv.io:80/42925586/28558/510
-#EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News FHD [H265]
-http://pfsv.io:80/42925586/28558/30195
-#EXTINF: -1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", BAND NEWS HD
-http://cdn.connectbr.com.br/BandNews/index.m3u8
-#EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News HD
-http://pfsv.io:80/42925586/28558/514
-#EXTINF: -1 group-title="CANAIS | Noticias", BAND NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=978eb5b3f063f12b5104e29012f512ce&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS | Noticias", Band News HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16696
-#EXTINF: -1 tvg-logo="http://p6.vc/h" group-title="CANAIS | Noticias", Band News SD
-http://pfsv.io:80/42925586/28558/520
-#EXTINF: -1 tvg-id="Bandnews.br" group-title="CANAIS | Noticias", BAND NEWS SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=a54efc3d7efdde4a8c4857d9aa94f15d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", BAND NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2630c59cc45d24a8ceed54856f996430&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-id="Cbs News" tvg-name="CBS NEWS HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", CBS NEWS (NY) HD
 https://cbsn-us.cbsnstream.cbsnews.com:443/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 #EXTINF: -1 tvg-logo="http://p6.vc/4" group-title="CANAIS | Noticias", CNN Brasil FHD
@@ -1821,47 +1865,13 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=350d5d364e119c1eab363339cc23517c&us
 https://furiaplay.fun/IPTV/video.m3u8?acesso=da4e30d0e1f1485743a62c7afe1bcb3d&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo Internacional
 http://pfsv.io:80/42925586/28558/519
-#EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo News FHD[H265]
-http://pfsv.io:80/42925586/28558/30196
-#EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo News HD
-http://pfsv.io:80/42925586/28558/516
-#EXTINF: -1 tvg-id="Globonewshd.br" group-title="CANAIS | Noticias", GLOBO NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=2b67bdeeb5dea3143f4b429f10b109cc&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS | Noticias", Globo News HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16727
-#EXTINF: -1 tvg-logo="http://p6.vc/3" group-title="CANAIS | Noticias", Globo News SD
-http://fusion4k.online:80/00006226/MF159357C/5439
-#EXTINF: -1 tvg-id="Globonews.br" group-title="CANAIS | Noticias", GLOBO NEWS SD
-http://fusion4k.online:80/00006226/MF159357C/5439
-#EXTINF: -1 group-title="CANAIS | Noticias", GLOBO NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=57f3d6f28fdb984df3008b7fbeab2658&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", GloboNews HD
-http://45.227.181.18:8000/play/a0r2/index.m3u8
-#EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News FHD
-http://pfsv.io:80/42925586/28558/98166
-#EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News FHD[H265]
-http://pfsv.io:80/42925586/28558/98167
-#EXTINF: -1 tvg-id="Jovempan.br" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", JOVEM PAN NEWS HD
-https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News HD
-http://pfsv.io:80/42925586/28558/98165
-#EXTINF: -1 group-title="CANAIS | Noticias", JOVEM PAN NEWS HD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=fb9efc954cb1f291f8c8b5a0135c8b80&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="CANAIS | Noticias", Jovem PAN News SD
-http://pfsv.io:80/42925586/28558/98128
-#EXTINF: -1 tvg-id="JovemPanNews.br" group-title="CANAIS | Noticias", JOVEM PAN NEWS SD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=d2218ad2cbdc9df9c3118eb8db38e605&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", JOVEM PAN NEWS UHD
-https://furiaplay.fun/IPTV/video.m3u8?acesso=229d298c0be4b37aaead85a2f213a0d4&usuario=f8b7caec5f0645b539f5bd2c544b90c1
-#EXTINF: -1 group-title="CANAIS | Noticias", JP News HD
-http://45.227.181.18:8000/play/a0py/index.m3u8
-#EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", RECORD NEWS AM HD
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", 04 Record News
 https://596639ebdd89b.streamlock.net:443/d24am/d24am/chunklist_w1474212299.m3u8
-#EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", Record News FHD
+#EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", 04 Record News
 http://pfsv.io:80/42925586/28558/511
-#EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", Record News FHD [H265]
+#EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", 04 Record News
 http://pfsv.io:80/42925586/28558/30197
-#EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", RECORD NEWS HD
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS | Noticias", 04 Record News
 http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
 #EXTINF: -1 tvg-logo="http://p6.vc/2" group-title="CANAIS | Noticias", Record News HD
 http://pfsv.io:80/42925586/28558/515
@@ -3212,4 +3222,4 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=bc04e5bdd834b4744bd8cafa719ee3a8&us
 #EXTINF: -1 group-title="CANAIS VARIEDADES", NHK WORLD JAPÃO HD
 https://furiaplay.fun/IPTV/video.m3u8?acesso=b7f1d99907efc1d178bb24d7929632b5&usuario=f8b7caec5f0645b539f5bd2c544b90c1
 #EXTINF: -1 tvg-logo="https://escorenews.com/media/tournament/e5573.png" group-title="E-Sports", Words League of Legends / Trasmissao BR Dia 04
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqoFxFwpJ0TFfroKpR9ub2QWTNke1pJmNZtYp2gIQSNUTlEeK9ahIQjTjMHMFi3Ge_vNW1-R1fiyahlYcY0QbgmNVPbu2UdLhYhobRZIl-AXDMhLv1DRykl1rnCBIBn-2jgGvL3Jjdeu8MgkOAphadNsAuG_7bK0SY6AffyBUoO0YaJ9mrej_jH6nt8ImcflWpI9gy6ejU-wRAxM2Ttqv-jOuuC9EGYgTiiqkaNZCcL-wA5pIKQcD7NHutbnHEI0TwuGeJU-XCrlHpKQ7XSPdLJUSo1w0IsALgaw6m6flnPORF4ny9eADSQthosrR1dTIRY-ceRcAw4OjrfNNhn1ZOLt5NdKXyIM72VKkxuVzDye1e3ygtqsv912JHuBkDOgboWwWzOfunjEMOMj3-buQivBTbtzI63rlhmxEFZD62-fgfPgvMqfl2Ron8z-WHipxxOBIiCsLuw89f7IRaesLOwcUet9dhTpVkUjSRlWtTYOflWkmg0RXT6oEKHiMpKZ2jr8Jdsavze-fnrtpC25mREjDPjq8KBaFOUpIGZdpztpTFLUwnfqmIVzLVepUHLrmx4-OESTK23n5X6tNSfNY-uttU7QfNHbCWm25yLLl6A6224K_8bGWXDl26M6uWj_yl77homgZeWIfLQewl6e0DnCa73RJq0lAAy51ezUhtz19suL1fZvcknx3bzjofTtICbQ4fB3mNUG8z7pXy3eULNusrLmPh-0v7Dby3XmyvNa0hiVfgWQAGCTX9P4zZ0eCqM972e75ylpFAQfUJGScvtjaI6FDm1PvsYkJc7RBAWiacShlRwtH9BCJonFoVfetmDSuXCoNsTsbjxh0Smnm7E3NNkf_v1qmtHIee1nihNYFyqbJWNN7k0rgeSvSSkrhQnNggt3XOXxtmYboRoMQGiNIxRG4na7PfFAIAEqCXVzLWVhc3QtMTCfAw.m3u
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cq0FeGvBMuCX74g9lFhHwe0o3dHHyXepiWAYGT7sBcZ_mLiEu19o1gAVa2DYXHIIQw-Gko8uoHI6uyjnW7v2xUZ0cpABe8-zQZRsQPIk8CMGX6e2aWuCyJhIyszTCX0sI3GI_3f6kLRt7oci1aMWiy30JM-dFH0cueFRUlknWjGR_-89h963nFXDxEB26CL0TUGiimZ_DQjKdm89LMXGBdurl8b-IUdK7s0MbtmJH5E2EhL9p2aOsVgILxKRuHO0AzILenxKXw9yb6XlJb8Np8YxIxxAK2rrCMZ12eKPwMTpueelyLGNO6BwHjkc_jIOap7MnbLlsE5mnw0lVo6fcckgnQzhjINk6r5D7jYwj_M6CTTnSUgr5Gpu_jHrM0PZWQ6OZ-P0c8besaEm0p5t4cmioT96D6aOu3nLsZeSEQ7hny0CaXZNKVYwJi6hlQMYdGcEe6h9h3mg3PKhDFXdER4K9FlPUkGTHynunZrrzD6OX_eo3FB8Jl26FCk2UuREKUkgsXpv_Q2WcE_OfWQeuFFQ6hy65xWlIxiRDw-AzHEa8NFvr8BG_D1Nuixx3TxHJ92xLwVD4L1oRo90ut8bK3Qpage9TuBAcjJPNazlGWnawnX4770o5oaxDCmwoq8KV4x107ixUAMgbfVEB5BeuoIEPMqaHocZkB0xxyaPIc-zKE0UVFpb1tOeBwVGFbVbGqi4VNYb0bubztXdFLb7PTR4C9IAet2BnQFek8w8GZXClfPheGXPeTebpmaSjYyZ2FIEqojhA9q3eCy58XyWg7nXj-NxF_bB4Sbf7Vej9-PQLlJxqD7M_NhIBVkZefb1maA1KrqFPOBnWBn5CsHwK5BNBD5vt5YwFTA-GwOWqw4q3or7zguX5me0e7QJGEbU0Ji9iU09NdSCqb9cOeiSdBoMxvL-BJlSVpf6ArGBIAEqCXVzLWVhc3QtMTCfAw.m3u
