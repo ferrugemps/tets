@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/07/18/11/00/5585620.jpg" group-title="!FILMES!", Samaritano
 http://acsc.cc/movie/4673629418/snakeplay/169734.mp4
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/uvrRBAkKyVHfWOvqAvgmDasgAGU.jpg" group-title="!FILMES!", Brasil 2002: Os Bastidores do Penta
+https://www59.ff-01.com/token=SUo1arz2BBp0VtoTtjYTbg/1665113603/45.231.0.0/136/e/41/3008d3a829f0f1313154f96a5c5d941e-480p.mp4
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" group-title="CANAIS | GLOBO", 01 Globo RBS !
 http://acsa.ws:80/ZYqfc/726ZSRypt/72017.ts
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 01 Globo RBS TV Porto Alegre
