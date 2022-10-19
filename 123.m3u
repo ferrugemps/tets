@@ -1,16 +1,36 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", Fairy Tail 01
+https://pitou.goyabu.com/fairy-tail/01.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 02
+https://pitou.goyabu.com/fairy-tail/02.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 03
+https://pitou.goyabu.com/fairy-tail/03.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 04
+https://pitou.goyabu.com/fairy-tail/04.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 05
+https://pitou.goyabu.com/fairy-tail/05.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 06
+https://pitou.goyabu.com/fairy-tail/06.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 07
+https://pitou.goyabu.com/fairy-tail/07.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 08
+https://pitou.goyabu.com/fairy-tail/08.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 09
+https://pitou.goyabu.com/fairy-tail/09.mp4
+#EXTINF: -1 tvg-logo="https://img1.ak.crunchyroll.com/i/spire4/33741e547993731f7af19b7cb81f9b941629909313_main.jpg" group-title="Fairy Tail", fairy tail 10
+https://pitou.goyabu.com/fairy-tail/10.mp4
 #EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/07/18/11/00/5585620.jpg" group-title="!FILMES!", Samaritano
 http://acsc.cc/movie/4673629418/snakeplay/169734.mp4
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/uvrRBAkKyVHfWOvqAvgmDasgAGU.jpg" group-title="!FILMES!", Brasil 2002: Os Bastidores do Penta
 https://www59.ff-01.com/token=SUo1arz2BBp0VtoTtjYTbg/1665113603/45.231.0.0/136/e/41/3008d3a829f0f1313154f96a5c5d941e-480p.mp4
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" group-title="CANAIS | GLOBO", 01 Globo RBS !
-http://clienteworld.com:80/claud123/claud123/83060
+http://acsa.ws:80/ZYqfc/726ZSRypt/72017.ts
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 01 Globo RBS TV Porto Alegre
-http://clienteworld.com:80/claud123/claud123/83001
+http://cdn.xcore.ca:80/litrha/8xaoeq/46729
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 01 Globo RBS TV Porto Alegre
 http://cdn.xcore.ca:80/litrha/8xaoeq/536
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="03 Globo RBS TV Porto Alegre" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 02 Globo RBS TV Porto Alegre
-http://clienteworld.com:80/claud123/claud123/83000
+http://cdn.xcore.ca:80/litrha/8xaoeq/43686
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 02 Globo RBS TV Porto Alegre
 http://cdn.xcore.ca:80/litrha/8xaoeq/40719
 #EXTINF: -1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rbs Tv Porto Alegre HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS | GLOBO", 03 Globo RBS TV Porto Alegre
@@ -271,7 +291,7 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=37e02720ccdd21dfb0a7357ebe4d7fd6&us
 http://b5.vc:80/022773/J2AUU4/90248.ts
 #EXTINF: -1 group-title="CANAIS | GLOBO", Globo News FHD
 http://b5.vc:80/022773/J2AUU4/71997.ts
-#EXTINF: -1 group-title="CANAIS | GLOBO", Globo News FHD
+#EXTINF: -1 group-title="CANAIS | GLOBO", Globo News FHD [H265]
 http://b5.vc:80/022773/J2AUU4/71998.ts
 #EXTINF: -1 tvg-id="Globonewshd.br" group-title="CANAIS | GLOBO", Globo News HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38357
@@ -283,7 +303,7 @@ http://b5.vc:80/022773/J2AUU4/131112.ts
 http://pfsv.io:80/42925586/28558/363
 #EXTINF: -1 group-title="CANAIS | GLOBO", Globo Nordeste FHD
 http://b5.vc:80/022773/J2AUU4/72001.ts
-#EXTINF: -1 tvg-logo="http://p6.vc/C" group-title="CANAIS | GLOBO", Globo Nordeste 
+#EXTINF: -1 tvg-logo="http://p6.vc/C" group-title="CANAIS | GLOBO", Globo Nordeste FHD[H265]
 http://pfsv.io:80/42925586/28558/30201
 #EXTINF: -1 group-title="CANAIS | GLOBO", Globo Nordeste HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38445
@@ -1362,13 +1382,13 @@ http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82907
 #EXTINF: -1 tvg-name="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/53894
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-http://clienteworld.com:80/claud123/claud123/53894
+http://ttv.bz:80/manolopc1/7U49kuozK8/1061
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82909
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/82908
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
-http://clienteworld.com:80/claud123/claud123/73917
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31033
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13676.ts
 #EXTINF: -1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="CANAIS | DISCOVERY CHANNEL", 01 DISCOVERY CHANNEL
@@ -1624,7 +1644,7 @@ http://axr.life:80/00005733/MF159357C/923832
 #EXTINF: -1 tvg-id="History2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 FHD [H265]
 http://cdn.xcore.ca:80/litrha/8xaoeq/38475
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
-http://clienteworld.com:80/claud123/claud123/82941
+http://cdn.xcore.ca:80/litrha/8xaoeq/40703
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13703.ts
 #EXTINF: -1 tvg-id="History 2" tvg-name="H2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
@@ -1638,7 +1658,7 @@ http://axr.life:80/00005733/MF159357C/923017
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD
 http://45.227.181.18:8000/play/a0ph/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 HD+
-http://clienteworld.com:80/claud123/claud123/82937
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16733
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 SD
 http://b5.vc:80/022773/J2AUU4/72109.ts
 #EXTINF: -1 tvg-id="H2.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-m-KeebPeBOp5PbnJkMK_stZomKzlHOINC42kYplxPW1h4QO4-xQpunUmKX_JNyJfis&usqp=CAU" group-title="CANAIS | HISTORY CHANNEL", H2 SD
@@ -1701,7 +1721,7 @@ http://b5.vc:80/022773/J2AUU4/103502.ts
 http://axr.life:80/00005733/MF159357C/373196
 #EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", Fish TV FHD
 http://b5.vc:80/022773/J2AUU4/71928.ts
-#EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", Fish TV FHD 
+#EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", Fish TV FHD [H265]
 http://b5.vc:80/022773/J2AUU4/71929.ts
 #EXTINF: -1 tvg-logo="https://www.tvsp2.com.br/img/canais/fish-tv.png" group-title="CANAIS | DOCUMENTÁRIOS", FISH TV HD
 http://ttv.bz:80/manolopc1/7U49kuozK8/1045
@@ -3227,5 +3247,3 @@ https://furiaplay.fun/IPTV/video.m3u8?acesso=b7f1d99907efc1d178bb24d7929632b5&us
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cq0FeGvBMuCX74g9lFhHwe0o3dHHyXepiWAYGT7sBcZ_mLiEu19o1gAVa2DYXHIIQw-Gko8uoHI6uyjnW7v2xUZ0cpABe8-zQZRsQPIk8CMGX6e2aWuCyJhIyszTCX0sI3GI_3f6kLRt7oci1aMWiy30JM-dFH0cueFRUlknWjGR_-89h963nFXDxEB26CL0TUGiimZ_DQjKdm89LMXGBdurl8b-IUdK7s0MbtmJH5E2EhL9p2aOsVgILxKRuHO0AzILenxKXw9yb6XlJb8Np8YxIxxAK2rrCMZ12eKPwMTpueelyLGNO6BwHjkc_jIOap7MnbLlsE5mnw0lVo6fcckgnQzhjINk6r5D7jYwj_M6CTTnSUgr5Gpu_jHrM0PZWQ6OZ-P0c8besaEm0p5t4cmioT96D6aOu3nLsZeSEQ7hny0CaXZNKVYwJi6hlQMYdGcEe6h9h3mg3PKhDFXdER4K9FlPUkGTHynunZrrzD6OX_eo3FB8Jl26FCk2UuREKUkgsXpv_Q2WcE_OfWQeuFFQ6hy65xWlIxiRDw-AzHEa8NFvr8BG_D1Nuixx3TxHJ92xLwVD4L1oRo90ut8bK3Qpage9TuBAcjJPNazlGWnawnX4770o5oaxDCmwoq8KV4x107ixUAMgbfVEB5BeuoIEPMqaHocZkB0xxyaPIc-zKE0UVFpb1tOeBwVGFbVbGqi4VNYb0bubztXdFLb7PTR4C9IAet2BnQFek8w8GZXClfPheGXPeTebpmaSjYyZ2FIEqojhA9q3eCy58XyWg7nXj-NxF_bB4Sbf7Vej9-PQLlJxqD7M_NhIBVkZefb1maA1KrqFPOBnWBn5CsHwK5BNBD5vt5YwFTA-GwOWqw4q3or7zguX5me0e7QJGEbU0Ji9iU09NdSCqb9cOeiSdBoMxvL-BJlSVpf6ArGBIAEqCXVzLWVhc3QtMTCfAw.m3u
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Y2Kxyz2qe5ePSpOT31EJaz-o4Etx9effI-Nv0169faFo3dvPt_rb523mMQPycaqI9UJU-OHugmSOrMvnQkza9uxFlTa6MDn6T7mZRKgjusTrAXUmSh1Ggg6hWNoGMf2uDVik3b3gUsPHYBlPazZrun72v2lJs2Pb9iEQb5igeg6LFWh5IvBTUkPr/s1696/Bleach%20Sennen%20Kessen-hen%20Ser%C3%A1%20Distribu%C3%ADdo%20pela%20Disney%20Plus%202.webp" group-title="Bleach: Sennen Kessen-hen", Bleach: Sennen Kessen-hen 01
 https://lightspeedst.net/s3/mp4/bleach-sennen-kessen-hen/sd/1.mp4
-#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Y2Kxyz2qe5ePSpOT31EJaz-o4Etx9effI-Nv0169faFo3dvPt_rb523mMQPycaqI9UJU-OHugmSOrMvnQkza9uxFlTa6MDn6T7mZRKgjusTrAXUmSh1Ggg6hWNoGMf2uDVik3b3gUsPHYBlPazZrun72v2lJs2Pb9iEQb5igeg6LFWh5IvBTUkPr/s1696/Bleach%20Sennen%20Kessen-hen%20Ser%C3%A1%20Distribu%C3%ADdo%20pela%20Disney%20Plus%202.webp" group-title="Bleach: Sennen Kessen-hen", Bleach: Sennen Kessen-hen 02
-https://lightspeedst.net/s3/mp4/bleach-sennen-kessen-hen/sd/2.mp4
